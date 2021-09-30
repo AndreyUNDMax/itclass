@@ -208,6 +208,7 @@ body{
 	flex-wrap:  wrap;
 	justify-content: space-between;
 	width: 80%;
+	padding: 	20px;
 }
 .c-tion__abc{
 		display: grid;
@@ -225,6 +226,10 @@ body{
 	margin: 0 auto;
 	text-align: center;
 	padding: 10px;
+}
+.c-tion__abc a{
+	color: white;
+	font-weight: bold;
 }
 .pr{
 	margin: 20px 1px;

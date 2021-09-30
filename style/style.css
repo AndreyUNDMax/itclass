@@ -235,6 +235,8 @@ body{
 	  border-radius: 30px;
 	  max-height: 70vh;
 	  background-color: rgba(42, 43, 42, 0.5);;
+	  
+		display: none;
 }
 .c-tion__abc p{
 
@@ -264,6 +266,10 @@ body{
 	background-size: cover;
 	background-repeat: no-repeat;
 	border-bottom: solid black 2px;
+}
+.pr__price{
+	font-size: 18px;
+	color: #008148;
 }
 .pr__row{
 	display: flex;

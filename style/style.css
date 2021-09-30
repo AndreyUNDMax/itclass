@@ -132,6 +132,7 @@ body{
 }
 .new{
 	overflow: hidden;
+	margin-top: 20px;
 }
 .new__title{
 	text-align: center;

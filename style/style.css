@@ -134,6 +134,9 @@ body{
 	overflow: hidden;
 	margin-top: 20px;
 }
+.new__txt{
+	font-size: 24px;
+}
 .new__title{
 	text-align: center;
 	font-size: 48px;

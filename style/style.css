@@ -190,14 +190,17 @@ body{
 	margin-top: 2px;
 }
 .links__QR{
-    margin-top: 20px;
     text-align: right;
+    max-width: 100px;
+    height: 100px;
 }
 .QR{
-    width: 100px;
+    width: 150px;
     cursor: none;
-    box-shadow: 10px 8px 5px rgba(0,0,0,0.7);
+    margin-top: -90px;
+    margin-left: -60px;
 }
+
 .links__row{
     display: flex;
     justify-content: space-between
@@ -235,7 +238,7 @@ body{
 	  border-radius: 30px;
 	  max-height: 70vh;
 	  background-color: rgba(42, 43, 42, 0.5);;
-	  
+
 		display: none;
 }
 .c-tion__abc p{
@@ -247,6 +250,9 @@ body{
 .c-tion__abc a{
 	color: white;
 	font-weight: bold;
+}
+.Oleg{
+
 }
 .pr{
 	margin: 20px 1px;
@@ -400,9 +406,6 @@ body{
 	}
 	.links__QR{
 		text-align: left;
-	}
-	.QR{
-		width: 80px;
 	}
 	.footer{
 		padding: 0 20px;

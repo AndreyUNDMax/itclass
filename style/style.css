@@ -133,10 +133,13 @@ body{
 .new{
 	overflow: hidden;
 	margin-top: 20px;
+	box-shadow: 0px 7px 10px  black;
+	border-radius: 20px;
+	padding: 20px 0px;
 }
 .new__txt{
 	font-size: 24px;
-	margin-top: 10px;
+	margin: 15px 10px;
 }
 .new__title{
 	text-align: center;
@@ -147,10 +150,17 @@ body{
 	margin-top: 30px;
 		width: 980px;
 		height: 551.25px;
+		margin-bottom: 	20px;
+		font-size: 32px;
 	}
 .new__videoInput{
 	width: 100%;
 	height: 100%;
+}
+.new__data{
+	font-size: 16px;
+	color: gray;
+	margin-left: 20px;	
 }
 .footer__info{
 	font-weight: bold;
@@ -419,7 +429,7 @@ body{
 
 	}
 	.new__title{
-		font-size: 26px;
+		font-size: 34px;
 		margin:  0 15px;
 	}
 	.footer__title{

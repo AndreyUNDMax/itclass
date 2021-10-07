@@ -1,7 +1,7 @@
-var K = 0
+var k = 0 ;
 function QRC() {
-	console.log('A')
-	swich(k){
+	console.log('A');
+	switch(k){
      case 1:
      case 2:
      case 3:
@@ -18,9 +18,10 @@ function QRC() {
      case 14:
      break;
      case 15:
-     a = document.getElementsById("pr__right")
-     a.style.display = ""
+     a = document.getElementById("pr__right");
+     a.style.display = "block";
      break;
 	}
 	k++
 	}
+

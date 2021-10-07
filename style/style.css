@@ -195,7 +195,6 @@ body{
 }
 .QR{
     width: 150px;
-    cursor: none;
     margin-top: -90px;
     margin-left: -60px;
 }
@@ -300,6 +299,7 @@ body{
 	background-color: green;
 	border-left: solid black 2px;
 	background-image: url(mainDesign/basket.png);
+	display: none;
 }
 .pr_ph{
 	background-repeat: no-repeat;

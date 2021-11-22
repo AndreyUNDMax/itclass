@@ -18,8 +18,14 @@ function QRC() {
      case 14:
      break;
      case 15:
-     a = document.getElementById("pr__right");
+     
+     a = document.getElementByClass("pr__right");
+     p1 = document.getElementById("p1")
      a.style.display = "block";
+     //1
+     p1.innerHTML = "$ Гелиамфора";
+     p1.style.color = "#008148";
+     //2
      break;
 	}
 	k++

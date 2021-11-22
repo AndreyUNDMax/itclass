@@ -78,6 +78,7 @@ body{
     margin-top: 5px;
     font-size: 15px;
     font-weight: bold;
+
 }
 .pr__buy{
     margin-top: 15px;
@@ -273,7 +274,7 @@ body{
 }
 .pr__price{
 	font-size: 18px;
-	color: #008148;
+	color: white;
 }
 .pr__row{
 	display: flex;
